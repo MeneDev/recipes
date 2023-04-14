@@ -1,1 +1,1 @@
-FROM FROM vabene1111/recipes
+FROM vabene1111/recipes
